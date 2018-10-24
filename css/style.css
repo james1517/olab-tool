@@ -1,0 +1,21 @@
+/* 全体の設定 */
+
+body {
+    width: 100%;
+}
+
+.inner {
+    width: 600px;
+    margin: 0 auto;
+}
+
+
+/* スマートフォン設定 */
+
+@media screen and (max-width:700px) {
+    .inner {
+        width: 100%;
+        padding: 0 10px;
+    }
+
+}
