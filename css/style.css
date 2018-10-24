@@ -9,6 +9,10 @@ body {
     margin: 0 auto;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 
 /* スマートフォン設定 */
 
